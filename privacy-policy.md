@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: [Current Date]
+Last updated: [23/02/2025]
 
 ## Introduction
 This Privacy Policy describes how our Google Sheets API application ("we", "our", or "us") collects, uses, and protects your information when you use our service.
